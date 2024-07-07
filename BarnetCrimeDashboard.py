@@ -592,10 +592,6 @@ if __name__ == '__main__':
     app.run_server(debug=True, port=8060)  # Change port to 8060 or any other available port
 
 
-# https://raw.githubusercontent.com/samab74/Barnet-Dashboard/main/OSBoundaryLine%20-%20BarnetWards.geojson
-# https://raw.githubusercontent.com/samab74/Barnet-Dashboard/main/barnet_crimes.csv
-# https://github.com/samab74/Barnet-Dashboard/raw/main/lsoa_with_crime_counts.geojson
-# 
 
 # In[ ]:
 
